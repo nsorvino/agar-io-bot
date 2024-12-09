@@ -1,0 +1,31 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Puppeteer Chromium cache
+puppeteer/.local-chromium/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Optional npm cache directory
+.npm/
