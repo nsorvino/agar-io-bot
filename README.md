@@ -11,7 +11,7 @@ This is a basic bot for Agar.io, made for learning purposes.
    Extract the contents of the `.zip` file to a folder on your computer.
 
 3. **Install Dependencies**  
-   Run the `install.bat` file located in the folder to install all required dependencies.
+   Run the `install.bat` file located in the folder to install all required dependencies. Make sure you have node.js installed before install.bat is executed.
 
 4. **Start the Bot**  
    Open a terminal in the folder and execute the following command:  
