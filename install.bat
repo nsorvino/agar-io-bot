@@ -27,6 +27,4 @@ if %errorlevel% neq 0 (
 echo ==========================
 echo Installation Complete!
 echo ==========================
-echo To start the program, run: 
-echo    npm start
 pause
